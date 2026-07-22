@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio.
 
 This repository showcases selected projects demonstrating my skills in Business Analysis, Data Analytics and Predictive Analytics.
 
-Featured Projects
+Featured Projects: 
 
 - Mercury Co-op Map (PACE)
 - Business Forecasting
