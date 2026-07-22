@@ -1,13 +1,20 @@
-Chloe's Business Analytics Portfolio
+# Chloe's Business Analytics Portfolio
 
-Welcome to my GitHub portfolio.
+👋 Welcome!
 
-This repository showcases selected projects demonstrating my skills in Business Analysis, Data Analytics and Predictive Analytics.
+📊 Featured Projects
 
-Featured Projects: 
+➡️ Mercury Co-op Map (PACE)
+Business analysis • Power BI • Stakeholder research
 
-- Mercury Co-op Map (PACE)
-- Business Forecasting
-- Airbnb Pricing Analytics
+➡️ Business Forecasting
+Forecasting • Statistical analysis • Excel
 
-More details will be added soon.
+➡️ Airbnb Pricing Analytics
+Python • Predictive analytics • Data visualisation
+
+------------------------------------
+
+Skills
+
+Power BI | Python | SQL | Excel | Business Analysis
